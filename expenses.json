@@ -1,0 +1,12 @@
+{
+  "next_id": 2,
+  "expenses": [
+    {
+      "id": 1,
+      "date": "2026-10-23",
+      "amount": 850,
+      "category": "food",
+      "note": "Lunch at Sukiya"
+    }
+  ]
+}
